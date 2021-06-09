@@ -22,7 +22,7 @@ spec:
         version: V2
     spec:    
       containers:    
-      - image: index.docker.io/hkdocker1702/hk-docker-repo:462c1ac0c9329fde9ff234457834356e18bcd907    
+      - image: index.docker.io/hkdocker1702/hk-docker-repo:615f5a2da8fe0f575c8b43156c60f579b550f552    
         imagePullPolicy: Always    
         name: hello-tekton
         ports:
