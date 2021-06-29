@@ -13,7 +13,7 @@ public class TestController {
 	@GetMapping("/hellotekton")
 	public String testMessage() {
 		LOGGER.info("hellotekton ::");
-		return "My First Tekton POC-5";
+		return "My First Tekton POC-6";
 
 	}
 
